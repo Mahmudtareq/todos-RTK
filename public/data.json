@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Finish Project Proposal",
+    "description": "Complete the project proposal document and submit it by Friday.",
+    "status": "Incomplete",
+    "priority": "High"
+  },
+  {
+    "id": 2,
+    "title": "Buy Groceries",
+    "description": "Purchase fruits, vegetables, milk, and eggs from the supermarket.",
+    "status": "Incomplete",
+    "priority": "Medium"
+  },
+  {
+    "id": 3,
+    "title": "Call Mom",
+    "description": "Check in with Mom and catch up on the family news.",
+    "status": "Complete",
+    "priority": "Low"
+  }
+]
